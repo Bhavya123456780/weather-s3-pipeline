@@ -1,4 +1,4 @@
-# weather-s3-pipelin
+# weather-s3-pipeline
 Live weather API → AWS S3 → PostgreSQL pipeline orchestrated with Apache Airflow
 # Weather Data Pipeline 🌤️
 
